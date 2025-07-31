@@ -1,5 +1,7 @@
 # U-District Community Safety Map
 
+**Created by:** [Ranjitha Rangaswamy](https://ranjitharangaswamy.com)
+
 A community-driven safety reporting platform that allows University of Washington students, staff, and community members to report and track safety concerns around the U-District campus area. Built with React, TypeScript, and Leaflet for interactive mapping.
 
 ---

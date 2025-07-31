@@ -141,6 +141,23 @@ function App() {
           onMarkResolved={handleMarkResolved}
         />
       </div>
+
+      {/* Footer with Attribution */}
+      <footer className="mt-8 py-4 border-t border-gray-200 bg-white">
+        <div className="max-w-6xl mx-auto px-4 text-center">
+          <p className="text-gray-600 text-sm">
+            Created by{' '}
+            <a 
+              href="https://ranjitharangaswamy.com" 
+              target="_blank" 
+              rel="noopener noreferrer"
+              className="text-purple-600 hover:text-purple-800 font-medium"
+            >
+              Ranjitha Rangaswamy
+            </a>
+          </p>
+        </div>
+      </footer>
     </div>
   );
 }
